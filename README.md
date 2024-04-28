@@ -4,6 +4,6 @@
 
 
 # Datasets
-| Name | 
-| :----: |
-| https://github.com/hendrycks/math/ |
+| Name | Link |
+| :--- | ---: |
+| Measuring Mathematical Problem Solving With the MATH Dataset | https://github.com/hendrycks/math/ |
