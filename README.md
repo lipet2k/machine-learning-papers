@@ -8,6 +8,7 @@
 | Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs | https://arxiv.org/pdf/2210.12283.pdf | ICLR 2023 | | Unread |
 | A Survey on Deep Learning for Theorem Proving | https://arxiv.org/pdf/2404.09939 | Pre-Print | | Unread |
 | Let’s Verify Step by Step | https://arxiv.org/pdf/2305.20050 | OpenAI | | Unread |
+| Solving olympiad geometry without human demonstrations | https://www.nature.com/articles/s41586-023-06747-5 | Nature | | Unread |
 
 
 # Datasets
