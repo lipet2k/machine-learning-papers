@@ -25,5 +25,5 @@
 
 # Talks
 | Name | Speaker | Link | Conference |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | AI can Learn from Data. But can it Learn to Reason? | Guy Van den Broeck | https://icml.cc/virtual/2023/21589 | ICML 2023 |
