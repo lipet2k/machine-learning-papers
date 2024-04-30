@@ -9,6 +9,8 @@
 | A Survey on Deep Learning for Theorem Proving | https://arxiv.org/pdf/2404.09939 | Pre-Print | | Unread |
 | Let’s Verify Step by Step | https://arxiv.org/pdf/2305.20050 | OpenAI | | Unread |
 | Solving olympiad geometry without human demonstrations | https://www.nature.com/articles/s41586-023-06747-5 | Nature | | Unread |
+| Generalization on the Unseen, Logic Reasoning and Degree Curriculum | https://arxiv.org/abs/2301.13105 | ICML 2023 | | Unread |
+
 
 
 # Datasets
@@ -20,3 +22,8 @@
 | Name | Link |
 | :--- | :----: |
 | How to Build & Understand GPT-7's Mind | https://www.youtube.com/watch?v=UTuuTTnjxMQ&t=0s |
+
+# Talks
+| Name | Speaker | Link | Conference |
+| :--- | :--- | :--- |
+| AI can Learn from Data. But can it Learn to Reason? | Guy Van den Broeck | https://icml.cc/virtual/2023/21589 | ICML 2023 |
