@@ -10,6 +10,7 @@
 | Let’s Verify Step by Step | https://arxiv.org/pdf/2305.20050 | OpenAI | | Unread |
 | Solving olympiad geometry without human demonstrations | https://www.nature.com/articles/s41586-023-06747-5 | Nature | | Unread |
 | Generalization on the Unseen, Logic Reasoning and Degree Curriculum | https://arxiv.org/abs/2301.13105 | ICML 2023 | | Unread |
+| Measuring Mathematical Problem Solving With the MATH Dataset | https://arxiv.org/pdf/2103.03874 | NeurIPS 2021 | | Unread |
 
 # Courses
 | Name | Author | Link |
