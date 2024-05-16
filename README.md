@@ -21,6 +21,7 @@
 | Name | Author |
 | :--- | :----: |
 | Programming Massively Parallel Processors | Kirk & Hwu |
+| Deep Learning with PyTorch | Stevens & Antiga |
 
 # Datasets
 | Name | Link |
